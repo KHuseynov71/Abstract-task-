@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Abctract , interface task\Abstrack Interface task\bin\Debug\netcoreapp3.1\Abstrack Interface task.exe
+C:\Users\LENOVO\Desktop\Abctract , interface task\Abstrack Interface task\bin\Debug\netcoreapp3.1\Abstrack Interface task.deps.json
+C:\Users\LENOVO\Desktop\Abctract , interface task\Abstrack Interface task\bin\Debug\netcoreapp3.1\Abstrack Interface task.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Abctract , interface task\Abstrack Interface task\bin\Debug\netcoreapp3.1\Abstrack Interface task.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Abctract , interface task\Abstrack Interface task\bin\Debug\netcoreapp3.1\Abstrack Interface task.dll
+C:\Users\LENOVO\Desktop\Abctract , interface task\Abstrack Interface task\bin\Debug\netcoreapp3.1\Abstrack Interface task.pdb
+C:\Users\LENOVO\Desktop\Abctract , interface task\Abstrack Interface task\obj\Debug\netcoreapp3.1\Abstrack Interface task.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Abctract , interface task\Abstrack Interface task\obj\Debug\netcoreapp3.1\Abstrack Interface task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Abctract , interface task\Abstrack Interface task\obj\Debug\netcoreapp3.1\Abstrack Interface task.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Abctract , interface task\Abstrack Interface task\obj\Debug\netcoreapp3.1\Abstrack Interface task.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Abctract , interface task\Abstrack Interface task\obj\Debug\netcoreapp3.1\Abstrack Interface task.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Abctract , interface task\Abstrack Interface task\obj\Debug\netcoreapp3.1\Abstrack Interface task.dll
+C:\Users\LENOVO\Desktop\Abctract , interface task\Abstrack Interface task\obj\Debug\netcoreapp3.1\Abstrack Interface task.pdb
+C:\Users\LENOVO\Desktop\Abctract , interface task\Abstrack Interface task\obj\Debug\netcoreapp3.1\Abstrack Interface task.genruntimeconfig.cache
